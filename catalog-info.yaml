@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: 911-Call-Data-Analysis
+  annotations:
+    github.com/project-slug: sonarneha17/911-Call-Data-Analysis
+spec:
+  type: other
+  lifecycle: unknown
+  owner: neha
